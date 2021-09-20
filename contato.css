@@ -1,0 +1,45 @@
+body{
+    background: url(./imagens/fundo.png);
+    font: 16px Arial, Helvetica, sans-serif;
+    max-width: 900px;
+    padding: 0;
+    border: 0;
+    margin: auto;
+}
+
+.menu a{
+    color: #4b566a;
+    text-decoration: none;
+    padding: 3px 45px;
+    font-weight: bold;
+}
+
+.menu{
+    background: #c5c5b2;
+    padding: 20px;
+}
+
+.titulo{
+    padding-top: 15px;
+    margin-top: 0;
+    color: #ada187;
+    margin-left: 10px;
+}
+
+.conteudo{
+    background-color: white;
+}
+
+.textos{
+    margin: 15px;
+    padding-bottom: 15px;
+}
+
+.direitos{
+    text-align: center;
+    font-weight: bold;
+}
+.img{
+    margin-left: 15px;
+    border: 10px solid rgb(183, 197, 162);
+}
